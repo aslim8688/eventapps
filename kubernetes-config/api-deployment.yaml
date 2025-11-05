@@ -10,7 +10,7 @@ spec:
     matchLabels:     
       app: events-api     
       ver: v1.0 
-   template:   
+  template:   
       metadata:     
       labels:       
         app: events-api       
