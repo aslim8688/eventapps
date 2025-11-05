@@ -16,8 +16,8 @@ spec:
         app: events-api       
         ver: v1.0   
       spec:     
-      containers:     
-      - image: aslim9688/events-api:v1.0       
-      name: events-api       
-      ports:       
-      - containerPort: 8082
+        containers:     
+        - image: aslim8688/events-api:v1.0       
+        name: events-api       
+        ports:       
+        - containerPort: 8082
