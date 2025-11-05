@@ -3,7 +3,7 @@ kind: Pod
 metadata:  
   name: supermario-pod  
   labels:    
-  app: mario 
+    app: mario 
 spec:  
     containers:  
     - name:  supermario-demo    
